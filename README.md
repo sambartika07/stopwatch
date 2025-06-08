@@ -13,7 +13,7 @@ This is a simple and responsive Stopwatch Web Application built using HTML, CSS,
 ✅ Smooth, responsive user interface
 
 📸 Preview
-![Screenshot (15)](https://github.com/user-attachments/assets/8b58b7a1-1278-436d-8e4d-805219ea5670)
+![Screenshot (15)](https://github.com/user-attachments/assets/a85105c3-306f-46cd-9dd4-6be81ce68021)
 
 
 
